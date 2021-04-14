@@ -1,2 +1,2 @@
-# study-c-plus-plus
+# Study C Plus Plus
 Eae, estou estudando C++ 
